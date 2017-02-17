@@ -1,9 +1,0 @@
-main: com.encrox.instancedregions.InstancedRegions
-name: InstancedRegions
-version: 1.0
-depend: [ProtocolLib, WorldGuard, WorldEdit]
-
-commands:
-  instance:
-    description: Instance test command.
-    usage: /instance create/dispose [<x1> <z1> <x2> <z2>]
